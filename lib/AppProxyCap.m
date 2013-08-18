@@ -8,8 +8,8 @@
 
 #import "AppProxyCap.h"
 #import "interpose.h"
-#include <SystemConfiguration/SCDynamicStore.h> 
-#include <SystemConfiguration/SCSchemaDefinitions.h> 
+
+typedef const struct __SCDynamicStore *	SCDynamicStoreRef;
 
 @implementation AppProxyCap
 
