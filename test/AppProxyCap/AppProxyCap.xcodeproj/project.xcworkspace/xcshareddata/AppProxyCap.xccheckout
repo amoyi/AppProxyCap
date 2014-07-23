@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>AE28131B-A192-4D1F-865B-CB0BA641EDD2</string>
+	<key>IDESourceControlProjectName</key>
+	<string>AppProxyCap</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>746D18AE-B1D9-49B5-BFAC-6D08D87A57CD</key>
+		<string>git://github.com/comex/inject_and_interpose.git</string>
+		<key>E5D21040-8069-4B1B-92B5-8F72675E4CEE</key>
+		<string>https://github.com/amoyi/AppProxyCap.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>test/AppProxyCap/AppProxyCap.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>746D18AE-B1D9-49B5-BFAC-6D08D87A57CD</key>
+		<string>../../../../lib/inject_and_interpose</string>
+		<key>E5D21040-8069-4B1B-92B5-8F72675E4CEE</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/amoyi/AppProxyCap.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>E5D21040-8069-4B1B-92B5-8F72675E4CEE</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E5D21040-8069-4B1B-92B5-8F72675E4CEE</string>
+			<key>IDESourceControlWCCName</key>
+			<string>AppProxyCap</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>746D18AE-B1D9-49B5-BFAC-6D08D87A57CD</string>
+			<key>IDESourceControlWCCName</key>
+			<string>inject_and_interpose</string>
+		</dict>
+	</array>
+</dict>
+</plist>

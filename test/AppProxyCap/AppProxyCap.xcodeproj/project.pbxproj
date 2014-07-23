@@ -29,6 +29,7 @@
 		73C8A65F1452E18500717840 /* CoreServices.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73C8A65E1452E18500717840 /* CoreServices.framework */; };
 		73C8A6611452E19400717840 /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73C8A6601452E19400717840 /* Cocoa.framework */; };
 		73C8A6631453AEDB00717840 /* SystemConfiguration.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73C8A6621453AEDB00717840 /* SystemConfiguration.framework */; };
+		B948017B198013F700594B8A /* SystemConfiguration.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B948017A198013F700594B8A /* SystemConfiguration.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -67,6 +68,7 @@
 		73C8A6601452E19400717840 /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cocoa.framework; path = SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Cocoa.framework; sourceTree = DEVELOPER_DIR; };
 		73C8A6621453AEDB00717840 /* SystemConfiguration.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SystemConfiguration.framework; path = SDKs/MacOSX10.7.sdk/System/Library/Frameworks/SystemConfiguration.framework; sourceTree = DEVELOPER_DIR; };
 		73C8A6641453C37800717840 /* SystemConfiguration.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SystemConfiguration.framework; path = System/Library/Frameworks/SystemConfiguration.framework; sourceTree = SDKROOT; };
+		B948017A198013F700594B8A /* SystemConfiguration.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SystemConfiguration.framework; path = Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/SystemConfiguration.framework; sourceTree = DEVELOPER_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,6 +87,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B948017B198013F700594B8A /* SystemConfiguration.framework in Frameworks */,
 				73C8A6631453AEDB00717840 /* SystemConfiguration.framework in Frameworks */,
 				73C8A6611452E19400717840 /* Cocoa.framework in Frameworks */,
 				73C8A65F1452E18500717840 /* CoreServices.framework in Frameworks */,
@@ -141,6 +144,7 @@
 		73C8A6031452CA4D00717840 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				B948017A198013F700594B8A /* SystemConfiguration.framework */,
 				73C8A6641453C37800717840 /* SystemConfiguration.framework */,
 				73C8A6621453AEDB00717840 /* SystemConfiguration.framework */,
 				73C8A6601452E19400717840 /* Cocoa.framework */,
