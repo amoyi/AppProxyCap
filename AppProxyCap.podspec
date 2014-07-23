@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name     = 'AppProxyCap'
-  s.version  = '1.0'
+  s.version  = '1.1'
   s.platform = :ios
   s.license  = 'MIT'
   s.summary  = 'Application-wide proxy setting.'
@@ -15,6 +15,6 @@ Pod::Spec.new do |s|
                     'will go through 127.0.0.1:8086 HTTP proxy afterwards, traffic in '   \
                     'other application is not affected.'
 
-  s.source_files = 'Lib/*.{h,m}'
+  s.source_files = 'Lib/*.{h,m,c}'
   s.framework = 'SystemConfiguration', 'CFNetwork'
 end
